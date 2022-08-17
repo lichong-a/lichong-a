@@ -14,7 +14,10 @@
 ![Vue](https://img.shields.io/badge/-Vue-222222?style=flat&logo=Vue.js&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 
-[![lichong's GitHub stats](https://github-readme-stats.vercel.app/api?username=lichong-a&count_private=true&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lichong-a&count_private=true&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lichong-a&count_private=true&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![lichong's GitHub stats](https://github-readme-stats.vercel.app/api?username=lichong-a&count_private=true&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 #### 📫 Reach me
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white&link=)](https://t.me/li_chong) [![WeiBo Badge](https://img.shields.io/badge/-微博-red?style=flat&logo=sina-weibo&logoColor=white&link=)](https://weibo.com/zingchonger) [![Github Badge](https://img.shields.io/badge/-Github-24292e?style=flat&logo=github&logoColor=white&link=)](https://github.com/lichong-a) [![Instagram URL](https://img.shields.io/twitter/url?label=Instagram&logo=Instagram&style=social&url=https://instagram.com/falling_deity)](https://www.instagram.com/falling_deity) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lichong.9797@gmail.com)](mailto:lichong.9797@gmail.com)
